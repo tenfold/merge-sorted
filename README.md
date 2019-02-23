@@ -2,6 +2,8 @@
 
 Merge n arrays, presorted in either ascending or descending order.
 
+Preferable to concatenating the arrays and the resorting if performance is a concern.
+
 # Examples
 
 ```
